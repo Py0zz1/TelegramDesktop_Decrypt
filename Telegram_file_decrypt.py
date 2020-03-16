@@ -1,3 +1,5 @@
+# Script By Py0zz1
+
 import hashlib
 import binascii
 import cryptg
